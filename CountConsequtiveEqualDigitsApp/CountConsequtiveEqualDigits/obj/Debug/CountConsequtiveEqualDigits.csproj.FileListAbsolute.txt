@@ -1,0 +1,7 @@
+C:\Users\Ud\source\repos\C#\Code Signal Challenges\CountConsequtiveEqualDigitsApp\CountConsequtiveEqualDigits\bin\Debug\CountConsequtiveEqualDigits.exe.config
+C:\Users\Ud\source\repos\C#\Code Signal Challenges\CountConsequtiveEqualDigitsApp\CountConsequtiveEqualDigits\bin\Debug\CountConsequtiveEqualDigits.exe
+C:\Users\Ud\source\repos\C#\Code Signal Challenges\CountConsequtiveEqualDigitsApp\CountConsequtiveEqualDigits\bin\Debug\CountConsequtiveEqualDigits.pdb
+C:\Users\Ud\source\repos\C#\Code Signal Challenges\CountConsequtiveEqualDigitsApp\CountConsequtiveEqualDigits\obj\Debug\CountConsequtiveEqualDigits.csprojAssemblyReference.cache
+C:\Users\Ud\source\repos\C#\Code Signal Challenges\CountConsequtiveEqualDigitsApp\CountConsequtiveEqualDigits\obj\Debug\CountConsequtiveEqualDigits.csproj.CoreCompileInputs.cache
+C:\Users\Ud\source\repos\C#\Code Signal Challenges\CountConsequtiveEqualDigitsApp\CountConsequtiveEqualDigits\obj\Debug\CountConsequtiveEqualDigits.exe
+C:\Users\Ud\source\repos\C#\Code Signal Challenges\CountConsequtiveEqualDigitsApp\CountConsequtiveEqualDigits\obj\Debug\CountConsequtiveEqualDigits.pdb
