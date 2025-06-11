@@ -1,0 +1,7 @@
+C:\Users\Ud\source\repos\C#\Code Signal Challenges\ReverseStringHalfwayApp\ReverseStringHalfway\bin\Debug\ReverseStringHalfway.exe.config
+C:\Users\Ud\source\repos\C#\Code Signal Challenges\ReverseStringHalfwayApp\ReverseStringHalfway\bin\Debug\ReverseStringHalfway.exe
+C:\Users\Ud\source\repos\C#\Code Signal Challenges\ReverseStringHalfwayApp\ReverseStringHalfway\bin\Debug\ReverseStringHalfway.pdb
+C:\Users\Ud\source\repos\C#\Code Signal Challenges\ReverseStringHalfwayApp\ReverseStringHalfway\obj\Debug\ReverseStringHalfway.csprojAssemblyReference.cache
+C:\Users\Ud\source\repos\C#\Code Signal Challenges\ReverseStringHalfwayApp\ReverseStringHalfway\obj\Debug\ReverseStringHalfway.csproj.CoreCompileInputs.cache
+C:\Users\Ud\source\repos\C#\Code Signal Challenges\ReverseStringHalfwayApp\ReverseStringHalfway\obj\Debug\ReverseStringHalfway.exe
+C:\Users\Ud\source\repos\C#\Code Signal Challenges\ReverseStringHalfwayApp\ReverseStringHalfway\obj\Debug\ReverseStringHalfway.pdb
