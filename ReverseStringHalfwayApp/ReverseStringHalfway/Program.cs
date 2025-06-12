@@ -11,9 +11,7 @@ namespace ReverseStringHalfway
         static void Main(string[] args)
         {
             Program specialOrder = new Program();
-            specialOrder.SpecialOrder("uday" +
-                "" +
-                "");
+            specialOrder.SpecialOrder("udxya");
             Console.ReadLine();
         }
 
@@ -29,10 +27,21 @@ namespace ReverseStringHalfway
             for (int i = 0; i < Math.Ceiling((double)length / 2); i++)
             {
                 //add post half numbers as is apart from middle index
-                if (i != Math.Ceiling((double)length / 2) - 1)
+                if (length % 2 == 0)
                 {
-                    postHalf += inputString[i];
+                    if (i != Math.Ceiling((double)length / 2))
+                    {
+                        postHalf += inputString[i];
+                    }
                 }
+                else
+                {
+                    if (i != Math.Ceiling((double)length / 2) - 1)
+                    {
+                        postHalf += inputString[i];
+                    }
+                }
+                
 
                 //reverse string up to half length
                 result += inputString[length - 1 - i];
