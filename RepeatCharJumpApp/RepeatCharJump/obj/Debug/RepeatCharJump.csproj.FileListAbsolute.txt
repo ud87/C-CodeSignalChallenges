@@ -1,0 +1,7 @@
+C:\Users\Ud\source\repos\C#\Code Signal Challenges\RepeatCharJumpApp\RepeatCharJump\bin\Debug\RepeatCharJump.exe.config
+C:\Users\Ud\source\repos\C#\Code Signal Challenges\RepeatCharJumpApp\RepeatCharJump\bin\Debug\RepeatCharJump.exe
+C:\Users\Ud\source\repos\C#\Code Signal Challenges\RepeatCharJumpApp\RepeatCharJump\bin\Debug\RepeatCharJump.pdb
+C:\Users\Ud\source\repos\C#\Code Signal Challenges\RepeatCharJumpApp\RepeatCharJump\obj\Debug\RepeatCharJump.csprojAssemblyReference.cache
+C:\Users\Ud\source\repos\C#\Code Signal Challenges\RepeatCharJumpApp\RepeatCharJump\obj\Debug\RepeatCharJump.csproj.CoreCompileInputs.cache
+C:\Users\Ud\source\repos\C#\Code Signal Challenges\RepeatCharJumpApp\RepeatCharJump\obj\Debug\RepeatCharJump.exe
+C:\Users\Ud\source\repos\C#\Code Signal Challenges\RepeatCharJumpApp\RepeatCharJump\obj\Debug\RepeatCharJump.pdb
