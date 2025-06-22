@@ -1,0 +1,7 @@
+C:\Users\Ud\source\repos\C#\Code Signal Challenges\ThreeCharactersReverseApp\ThreeCharactersReverse\bin\Debug\ThreeCharactersReverse.exe.config
+C:\Users\Ud\source\repos\C#\Code Signal Challenges\ThreeCharactersReverseApp\ThreeCharactersReverse\bin\Debug\ThreeCharactersReverse.exe
+C:\Users\Ud\source\repos\C#\Code Signal Challenges\ThreeCharactersReverseApp\ThreeCharactersReverse\bin\Debug\ThreeCharactersReverse.pdb
+C:\Users\Ud\source\repos\C#\Code Signal Challenges\ThreeCharactersReverseApp\ThreeCharactersReverse\obj\Debug\ThreeCharactersReverse.csprojAssemblyReference.cache
+C:\Users\Ud\source\repos\C#\Code Signal Challenges\ThreeCharactersReverseApp\ThreeCharactersReverse\obj\Debug\ThreeCharactersReverse.csproj.CoreCompileInputs.cache
+C:\Users\Ud\source\repos\C#\Code Signal Challenges\ThreeCharactersReverseApp\ThreeCharactersReverse\obj\Debug\ThreeCharactersReverse.exe
+C:\Users\Ud\source\repos\C#\Code Signal Challenges\ThreeCharactersReverseApp\ThreeCharactersReverse\obj\Debug\ThreeCharactersReverse.pdb
