@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiddleElementAlternateLeftRightElement", "MiddleElementAlternateLeftRightElement\MiddleElementAlternateLeftRightElement.csproj", "{A5C39621-10AD-47AC-95E4-0B54E7B418E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5C39621-10AD-47AC-95E4-0B54E7B418E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5C39621-10AD-47AC-95E4-0B54E7B418E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5C39621-10AD-47AC-95E4-0B54E7B418E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5C39621-10AD-47AC-95E4-0B54E7B418E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A9E87CF-A0E6-4293-8D7E-7E9C6C8C3009}
+	EndGlobalSection
+EndGlobal

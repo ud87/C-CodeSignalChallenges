@@ -1,0 +1,7 @@
+C:\Users\Ud\source\repos\C#\Code Signal Challenges\MiddleElementAlternateLeftRightElementApp\MiddleElementAlternateLeftRightElement\bin\Debug\MiddleElementAlternateLeftRightElement.exe.config
+C:\Users\Ud\source\repos\C#\Code Signal Challenges\MiddleElementAlternateLeftRightElementApp\MiddleElementAlternateLeftRightElement\bin\Debug\MiddleElementAlternateLeftRightElement.exe
+C:\Users\Ud\source\repos\C#\Code Signal Challenges\MiddleElementAlternateLeftRightElementApp\MiddleElementAlternateLeftRightElement\bin\Debug\MiddleElementAlternateLeftRightElement.pdb
+C:\Users\Ud\source\repos\C#\Code Signal Challenges\MiddleElementAlternateLeftRightElementApp\MiddleElementAlternateLeftRightElement\obj\Debug\MiddleElementAlternateLeftRightElement.csprojAssemblyReference.cache
+C:\Users\Ud\source\repos\C#\Code Signal Challenges\MiddleElementAlternateLeftRightElementApp\MiddleElementAlternateLeftRightElement\obj\Debug\MiddleElementAlternateLeftRightElement.csproj.CoreCompileInputs.cache
+C:\Users\Ud\source\repos\C#\Code Signal Challenges\MiddleElementAlternateLeftRightElementApp\MiddleElementAlternateLeftRightElement\obj\Debug\MiddleElementAlternateLeftRightElement.exe
+C:\Users\Ud\source\repos\C#\Code Signal Challenges\MiddleElementAlternateLeftRightElementApp\MiddleElementAlternateLeftRightElement\obj\Debug\MiddleElementAlternateLeftRightElement.pdb
