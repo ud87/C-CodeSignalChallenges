@@ -1,0 +1,7 @@
+C:\Users\Ud\source\repos\C#\Code Signal Challenges\PairingElementsFromMiddleToEndsApp\PairingElementsFromMiddleToEnds\bin\Debug\PairingElementsFromMiddleToEnds.exe.config
+C:\Users\Ud\source\repos\C#\Code Signal Challenges\PairingElementsFromMiddleToEndsApp\PairingElementsFromMiddleToEnds\bin\Debug\PairingElementsFromMiddleToEnds.exe
+C:\Users\Ud\source\repos\C#\Code Signal Challenges\PairingElementsFromMiddleToEndsApp\PairingElementsFromMiddleToEnds\bin\Debug\PairingElementsFromMiddleToEnds.pdb
+C:\Users\Ud\source\repos\C#\Code Signal Challenges\PairingElementsFromMiddleToEndsApp\PairingElementsFromMiddleToEnds\obj\Debug\PairingElementsFromMiddleToEnds.csprojAssemblyReference.cache
+C:\Users\Ud\source\repos\C#\Code Signal Challenges\PairingElementsFromMiddleToEndsApp\PairingElementsFromMiddleToEnds\obj\Debug\PairingElementsFromMiddleToEnds.csproj.CoreCompileInputs.cache
+C:\Users\Ud\source\repos\C#\Code Signal Challenges\PairingElementsFromMiddleToEndsApp\PairingElementsFromMiddleToEnds\obj\Debug\PairingElementsFromMiddleToEnds.exe
+C:\Users\Ud\source\repos\C#\Code Signal Challenges\PairingElementsFromMiddleToEndsApp\PairingElementsFromMiddleToEnds\obj\Debug\PairingElementsFromMiddleToEnds.pdb
