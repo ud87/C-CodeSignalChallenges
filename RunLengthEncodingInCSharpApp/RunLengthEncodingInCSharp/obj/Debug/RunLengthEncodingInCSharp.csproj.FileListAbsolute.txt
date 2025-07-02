@@ -1,0 +1,7 @@
+C:\Users\Ud\source\repos\C#\Code Signal Challenges\RunLengthEncodingInCSharpApp\RunLengthEncodingInCSharp\bin\Debug\RunLengthEncodingInCSharp.exe.config
+C:\Users\Ud\source\repos\C#\Code Signal Challenges\RunLengthEncodingInCSharpApp\RunLengthEncodingInCSharp\bin\Debug\RunLengthEncodingInCSharp.exe
+C:\Users\Ud\source\repos\C#\Code Signal Challenges\RunLengthEncodingInCSharpApp\RunLengthEncodingInCSharp\bin\Debug\RunLengthEncodingInCSharp.pdb
+C:\Users\Ud\source\repos\C#\Code Signal Challenges\RunLengthEncodingInCSharpApp\RunLengthEncodingInCSharp\obj\Debug\RunLengthEncodingInCSharp.csprojAssemblyReference.cache
+C:\Users\Ud\source\repos\C#\Code Signal Challenges\RunLengthEncodingInCSharpApp\RunLengthEncodingInCSharp\obj\Debug\RunLengthEncodingInCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Ud\source\repos\C#\Code Signal Challenges\RunLengthEncodingInCSharpApp\RunLengthEncodingInCSharp\obj\Debug\RunLengthEncodingInCSharp.exe
+C:\Users\Ud\source\repos\C#\Code Signal Challenges\RunLengthEncodingInCSharpApp\RunLengthEncodingInCSharp\obj\Debug\RunLengthEncodingInCSharp.pdb
