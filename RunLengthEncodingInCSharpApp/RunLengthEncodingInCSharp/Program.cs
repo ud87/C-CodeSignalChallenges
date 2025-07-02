@@ -27,11 +27,16 @@ namespace RunLengthEncodingInCSharp
             string letter;
             string number;
 
+            if (String.IsNullOrEmpty(s))
+            {
+                return String.Empty;
+            }
+
             //foreach loop
             foreach (char ch in s)
             {
                 //each character is digit or a alphabet
-                if (Char.IsLetter(ch))
+                if (Char.IsLetter(ch) || Char.IsNumber(ch))
                 {
                     // if group empty, then group = character
                     if (group == null)
