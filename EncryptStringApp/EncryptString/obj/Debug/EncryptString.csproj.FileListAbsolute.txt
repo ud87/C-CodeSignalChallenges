@@ -1,0 +1,7 @@
+C:\Users\Ud\source\repos\C#\Code Signal Challenges\EncryptStringApp\EncryptString\bin\Debug\EncryptString.exe.config
+C:\Users\Ud\source\repos\C#\Code Signal Challenges\EncryptStringApp\EncryptString\bin\Debug\EncryptString.exe
+C:\Users\Ud\source\repos\C#\Code Signal Challenges\EncryptStringApp\EncryptString\bin\Debug\EncryptString.pdb
+C:\Users\Ud\source\repos\C#\Code Signal Challenges\EncryptStringApp\EncryptString\obj\Debug\EncryptString.csprojAssemblyReference.cache
+C:\Users\Ud\source\repos\C#\Code Signal Challenges\EncryptStringApp\EncryptString\obj\Debug\EncryptString.csproj.CoreCompileInputs.cache
+C:\Users\Ud\source\repos\C#\Code Signal Challenges\EncryptStringApp\EncryptString\obj\Debug\EncryptString.exe
+C:\Users\Ud\source\repos\C#\Code Signal Challenges\EncryptStringApp\EncryptString\obj\Debug\EncryptString.pdb
