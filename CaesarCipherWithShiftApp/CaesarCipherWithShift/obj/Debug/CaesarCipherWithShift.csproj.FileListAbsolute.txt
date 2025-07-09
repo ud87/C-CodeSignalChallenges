@@ -1,0 +1,7 @@
+C:\Users\Ud\source\repos\C#\Code Signal Challenges\CaesarCipherWithShiftApp\CaesarCipherWithShift\bin\Debug\CaesarCipherWithShift.exe.config
+C:\Users\Ud\source\repos\C#\Code Signal Challenges\CaesarCipherWithShiftApp\CaesarCipherWithShift\bin\Debug\CaesarCipherWithShift.exe
+C:\Users\Ud\source\repos\C#\Code Signal Challenges\CaesarCipherWithShiftApp\CaesarCipherWithShift\bin\Debug\CaesarCipherWithShift.pdb
+C:\Users\Ud\source\repos\C#\Code Signal Challenges\CaesarCipherWithShiftApp\CaesarCipherWithShift\obj\Debug\CaesarCipherWithShift.csprojAssemblyReference.cache
+C:\Users\Ud\source\repos\C#\Code Signal Challenges\CaesarCipherWithShiftApp\CaesarCipherWithShift\obj\Debug\CaesarCipherWithShift.csproj.CoreCompileInputs.cache
+C:\Users\Ud\source\repos\C#\Code Signal Challenges\CaesarCipherWithShiftApp\CaesarCipherWithShift\obj\Debug\CaesarCipherWithShift.exe
+C:\Users\Ud\source\repos\C#\Code Signal Challenges\CaesarCipherWithShiftApp\CaesarCipherWithShift\obj\Debug\CaesarCipherWithShift.pdb
