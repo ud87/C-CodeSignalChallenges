@@ -28,7 +28,7 @@ namespace CaesarCipher
         static void Main(string[] args)
         {
             // Example text to encrypt
-            string originalText = "Zello, C#!";
+            string originalText = "xello, C#!";
             // The encrypted_text function call and Console.WriteLine statement should be the same as in the solution
             string encryptedText = EncryptText(originalText);
             Console.WriteLine(encryptedText);  // The correct output after implementing the TODO should be 'Khoor, F#!'
@@ -46,12 +46,9 @@ namespace CaesarCipher
                     int shift = 3;
                     // TODO: Use the correct ASCII values to shift the character and add it to 'encrypted'
                     encrypted += char.IsUpper(c)
-                        ? (decimal)c - 64 % 26 == 0
-                            ? (char)(65 + shift)
-                            : (char)((decimal)c + shift)
-                        : (decimal)c - 96 % 26 == 0
-                            ? (char)(97 + shift)
-                            : (char)((decimal)c + shift);
+                        ? (char)(((c - 'A' + shift) % 26) + 'A')
+                        : (char)(((c - 'a' + shift) % 26) + 'a');
+
                     // Hint 1: 'A' = 65, 'a' = 97
                     // Hint 2: you can use modulo (%) operator to create a cycle
 
