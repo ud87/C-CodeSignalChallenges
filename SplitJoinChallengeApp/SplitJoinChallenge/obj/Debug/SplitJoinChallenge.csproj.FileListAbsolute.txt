@@ -1,0 +1,7 @@
+C:\Users\Ud\source\repos\C#\Code Signal Challenges\SplitJoinChallengeApp\SplitJoinChallenge\obj\Debug\SplitJoinChallenge.csprojAssemblyReference.cache
+C:\Users\Ud\source\repos\C#\Code Signal Challenges\SplitJoinChallengeApp\SplitJoinChallenge\obj\Debug\SplitJoinChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Ud\source\repos\C#\Code Signal Challenges\SplitJoinChallengeApp\SplitJoinChallenge\bin\Debug\SplitJoinChallenge.exe.config
+C:\Users\Ud\source\repos\C#\Code Signal Challenges\SplitJoinChallengeApp\SplitJoinChallenge\bin\Debug\SplitJoinChallenge.exe
+C:\Users\Ud\source\repos\C#\Code Signal Challenges\SplitJoinChallengeApp\SplitJoinChallenge\bin\Debug\SplitJoinChallenge.pdb
+C:\Users\Ud\source\repos\C#\Code Signal Challenges\SplitJoinChallengeApp\SplitJoinChallenge\obj\Debug\SplitJoinChallenge.exe
+C:\Users\Ud\source\repos\C#\Code Signal Challenges\SplitJoinChallengeApp\SplitJoinChallenge\obj\Debug\SplitJoinChallenge.pdb
