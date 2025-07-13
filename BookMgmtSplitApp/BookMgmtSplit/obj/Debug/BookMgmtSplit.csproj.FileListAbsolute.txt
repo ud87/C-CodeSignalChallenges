@@ -1,0 +1,7 @@
+C:\Users\Ud\source\repos\C#\Code Signal Challenges\BookMgmtSplitApp\BookMgmtSplit\bin\Debug\BookMgmtSplit.exe.config
+C:\Users\Ud\source\repos\C#\Code Signal Challenges\BookMgmtSplitApp\BookMgmtSplit\bin\Debug\BookMgmtSplit.exe
+C:\Users\Ud\source\repos\C#\Code Signal Challenges\BookMgmtSplitApp\BookMgmtSplit\bin\Debug\BookMgmtSplit.pdb
+C:\Users\Ud\source\repos\C#\Code Signal Challenges\BookMgmtSplitApp\BookMgmtSplit\obj\Debug\BookMgmtSplit.csprojAssemblyReference.cache
+C:\Users\Ud\source\repos\C#\Code Signal Challenges\BookMgmtSplitApp\BookMgmtSplit\obj\Debug\BookMgmtSplit.csproj.CoreCompileInputs.cache
+C:\Users\Ud\source\repos\C#\Code Signal Challenges\BookMgmtSplitApp\BookMgmtSplit\obj\Debug\BookMgmtSplit.exe
+C:\Users\Ud\source\repos\C#\Code Signal Challenges\BookMgmtSplitApp\BookMgmtSplit\obj\Debug\BookMgmtSplit.pdb
