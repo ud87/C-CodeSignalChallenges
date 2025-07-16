@@ -1,0 +1,7 @@
+D:\Programming\C sharp Projects\C-CodeSignalChallenges\StringRotationSplitApp\StringRotationSplit\bin\Debug\StringRotationSplit.exe.config
+D:\Programming\C sharp Projects\C-CodeSignalChallenges\StringRotationSplitApp\StringRotationSplit\bin\Debug\StringRotationSplit.exe
+D:\Programming\C sharp Projects\C-CodeSignalChallenges\StringRotationSplitApp\StringRotationSplit\bin\Debug\StringRotationSplit.pdb
+D:\Programming\C sharp Projects\C-CodeSignalChallenges\StringRotationSplitApp\StringRotationSplit\obj\Debug\StringRotationSplit.csproj.AssemblyReference.cache
+D:\Programming\C sharp Projects\C-CodeSignalChallenges\StringRotationSplitApp\StringRotationSplit\obj\Debug\StringRotationSplit.csproj.CoreCompileInputs.cache
+D:\Programming\C sharp Projects\C-CodeSignalChallenges\StringRotationSplitApp\StringRotationSplit\obj\Debug\StringRotationSplit.exe
+D:\Programming\C sharp Projects\C-CodeSignalChallenges\StringRotationSplitApp\StringRotationSplit\obj\Debug\StringRotationSplit.pdb
