@@ -1,0 +1,7 @@
+D:\Programming\C sharp Projects\C-CodeSignalChallenges\CapitalizeFirstLetterApp\CapitalizeFirstLetter\bin\Debug\CapitalizeFirstLetter.exe.config
+D:\Programming\C sharp Projects\C-CodeSignalChallenges\CapitalizeFirstLetterApp\CapitalizeFirstLetter\bin\Debug\CapitalizeFirstLetter.exe
+D:\Programming\C sharp Projects\C-CodeSignalChallenges\CapitalizeFirstLetterApp\CapitalizeFirstLetter\bin\Debug\CapitalizeFirstLetter.pdb
+D:\Programming\C sharp Projects\C-CodeSignalChallenges\CapitalizeFirstLetterApp\CapitalizeFirstLetter\obj\Debug\CapitalizeFirstLetter.csproj.AssemblyReference.cache
+D:\Programming\C sharp Projects\C-CodeSignalChallenges\CapitalizeFirstLetterApp\CapitalizeFirstLetter\obj\Debug\CapitalizeFirstLetter.csproj.CoreCompileInputs.cache
+D:\Programming\C sharp Projects\C-CodeSignalChallenges\CapitalizeFirstLetterApp\CapitalizeFirstLetter\obj\Debug\CapitalizeFirstLetter.exe
+D:\Programming\C sharp Projects\C-CodeSignalChallenges\CapitalizeFirstLetterApp\CapitalizeFirstLetter\obj\Debug\CapitalizeFirstLetter.pdb
