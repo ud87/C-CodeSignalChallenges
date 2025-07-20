@@ -1,0 +1,7 @@
+D:\Programming\C sharp Projects\C-CodeSignalChallenges\ParseAndMultplyNumbersApp\ParseAndMultplyNumbers\bin\Debug\ParseAndMultplyNumbers.exe.config
+D:\Programming\C sharp Projects\C-CodeSignalChallenges\ParseAndMultplyNumbersApp\ParseAndMultplyNumbers\bin\Debug\ParseAndMultplyNumbers.exe
+D:\Programming\C sharp Projects\C-CodeSignalChallenges\ParseAndMultplyNumbersApp\ParseAndMultplyNumbers\bin\Debug\ParseAndMultplyNumbers.pdb
+D:\Programming\C sharp Projects\C-CodeSignalChallenges\ParseAndMultplyNumbersApp\ParseAndMultplyNumbers\obj\Debug\ParseAndMultplyNumbers.csproj.AssemblyReference.cache
+D:\Programming\C sharp Projects\C-CodeSignalChallenges\ParseAndMultplyNumbersApp\ParseAndMultplyNumbers\obj\Debug\ParseAndMultplyNumbers.csproj.CoreCompileInputs.cache
+D:\Programming\C sharp Projects\C-CodeSignalChallenges\ParseAndMultplyNumbersApp\ParseAndMultplyNumbers\obj\Debug\ParseAndMultplyNumbers.exe
+D:\Programming\C sharp Projects\C-CodeSignalChallenges\ParseAndMultplyNumbersApp\ParseAndMultplyNumbers\obj\Debug\ParseAndMultplyNumbers.pdb
