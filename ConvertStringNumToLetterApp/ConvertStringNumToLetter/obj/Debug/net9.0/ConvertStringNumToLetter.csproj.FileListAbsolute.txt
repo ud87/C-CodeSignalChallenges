@@ -1,0 +1,15 @@
+D:\Programming\C sharp Projects\C-CodeSignalChallenges\ConvertStringNumToLetterApp\ConvertStringNumToLetter\bin\Debug\net9.0\ConvertStringNumToLetter.exe
+D:\Programming\C sharp Projects\C-CodeSignalChallenges\ConvertStringNumToLetterApp\ConvertStringNumToLetter\bin\Debug\net9.0\ConvertStringNumToLetter.deps.json
+D:\Programming\C sharp Projects\C-CodeSignalChallenges\ConvertStringNumToLetterApp\ConvertStringNumToLetter\bin\Debug\net9.0\ConvertStringNumToLetter.runtimeconfig.json
+D:\Programming\C sharp Projects\C-CodeSignalChallenges\ConvertStringNumToLetterApp\ConvertStringNumToLetter\bin\Debug\net9.0\ConvertStringNumToLetter.dll
+D:\Programming\C sharp Projects\C-CodeSignalChallenges\ConvertStringNumToLetterApp\ConvertStringNumToLetter\bin\Debug\net9.0\ConvertStringNumToLetter.pdb
+D:\Programming\C sharp Projects\C-CodeSignalChallenges\ConvertStringNumToLetterApp\ConvertStringNumToLetter\obj\Debug\net9.0\ConvertStringNumToLetter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C sharp Projects\C-CodeSignalChallenges\ConvertStringNumToLetterApp\ConvertStringNumToLetter\obj\Debug\net9.0\ConvertStringNumToLetter.AssemblyInfoInputs.cache
+D:\Programming\C sharp Projects\C-CodeSignalChallenges\ConvertStringNumToLetterApp\ConvertStringNumToLetter\obj\Debug\net9.0\ConvertStringNumToLetter.AssemblyInfo.cs
+D:\Programming\C sharp Projects\C-CodeSignalChallenges\ConvertStringNumToLetterApp\ConvertStringNumToLetter\obj\Debug\net9.0\ConvertStringNumToLetter.csproj.CoreCompileInputs.cache
+D:\Programming\C sharp Projects\C-CodeSignalChallenges\ConvertStringNumToLetterApp\ConvertStringNumToLetter\obj\Debug\net9.0\ConvertStringNumToLetter.sourcelink.json
+D:\Programming\C sharp Projects\C-CodeSignalChallenges\ConvertStringNumToLetterApp\ConvertStringNumToLetter\obj\Debug\net9.0\ConvertStringNumToLetter.dll
+D:\Programming\C sharp Projects\C-CodeSignalChallenges\ConvertStringNumToLetterApp\ConvertStringNumToLetter\obj\Debug\net9.0\refint\ConvertStringNumToLetter.dll
+D:\Programming\C sharp Projects\C-CodeSignalChallenges\ConvertStringNumToLetterApp\ConvertStringNumToLetter\obj\Debug\net9.0\ConvertStringNumToLetter.pdb
+D:\Programming\C sharp Projects\C-CodeSignalChallenges\ConvertStringNumToLetterApp\ConvertStringNumToLetter\obj\Debug\net9.0\ConvertStringNumToLetter.genruntimeconfig.cache
+D:\Programming\C sharp Projects\C-CodeSignalChallenges\ConvertStringNumToLetterApp\ConvertStringNumToLetter\obj\Debug\net9.0\ref\ConvertStringNumToLetter.dll
