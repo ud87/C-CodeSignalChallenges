@@ -1,0 +1,15 @@
+D:\Programming\C sharp Projects\C-CodeSignalChallenges\SumPlayerScoresApp\SumPlayerScores\bin\Debug\net9.0\SumPlayerScores.exe
+D:\Programming\C sharp Projects\C-CodeSignalChallenges\SumPlayerScoresApp\SumPlayerScores\bin\Debug\net9.0\SumPlayerScores.deps.json
+D:\Programming\C sharp Projects\C-CodeSignalChallenges\SumPlayerScoresApp\SumPlayerScores\bin\Debug\net9.0\SumPlayerScores.runtimeconfig.json
+D:\Programming\C sharp Projects\C-CodeSignalChallenges\SumPlayerScoresApp\SumPlayerScores\bin\Debug\net9.0\SumPlayerScores.dll
+D:\Programming\C sharp Projects\C-CodeSignalChallenges\SumPlayerScoresApp\SumPlayerScores\bin\Debug\net9.0\SumPlayerScores.pdb
+D:\Programming\C sharp Projects\C-CodeSignalChallenges\SumPlayerScoresApp\SumPlayerScores\obj\Debug\net9.0\SumPlayerScores.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C sharp Projects\C-CodeSignalChallenges\SumPlayerScoresApp\SumPlayerScores\obj\Debug\net9.0\SumPlayerScores.AssemblyInfoInputs.cache
+D:\Programming\C sharp Projects\C-CodeSignalChallenges\SumPlayerScoresApp\SumPlayerScores\obj\Debug\net9.0\SumPlayerScores.AssemblyInfo.cs
+D:\Programming\C sharp Projects\C-CodeSignalChallenges\SumPlayerScoresApp\SumPlayerScores\obj\Debug\net9.0\SumPlayerScores.csproj.CoreCompileInputs.cache
+D:\Programming\C sharp Projects\C-CodeSignalChallenges\SumPlayerScoresApp\SumPlayerScores\obj\Debug\net9.0\SumPlayerScores.sourcelink.json
+D:\Programming\C sharp Projects\C-CodeSignalChallenges\SumPlayerScoresApp\SumPlayerScores\obj\Debug\net9.0\SumPlayerScores.dll
+D:\Programming\C sharp Projects\C-CodeSignalChallenges\SumPlayerScoresApp\SumPlayerScores\obj\Debug\net9.0\refint\SumPlayerScores.dll
+D:\Programming\C sharp Projects\C-CodeSignalChallenges\SumPlayerScoresApp\SumPlayerScores\obj\Debug\net9.0\SumPlayerScores.pdb
+D:\Programming\C sharp Projects\C-CodeSignalChallenges\SumPlayerScoresApp\SumPlayerScores\obj\Debug\net9.0\SumPlayerScores.genruntimeconfig.cache
+D:\Programming\C sharp Projects\C-CodeSignalChallenges\SumPlayerScoresApp\SumPlayerScores\obj\Debug\net9.0\ref\SumPlayerScores.dll
