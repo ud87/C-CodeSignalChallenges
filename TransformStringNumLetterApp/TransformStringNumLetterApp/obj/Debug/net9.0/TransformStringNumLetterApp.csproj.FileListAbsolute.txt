@@ -1,0 +1,15 @@
+D:\Programming\C sharp Projects\C-CodeSignalChallenges\TransformStringNumLetterApp\TransformStringNumLetterApp\bin\Debug\net9.0\TransformStringNumLetterApp.exe
+D:\Programming\C sharp Projects\C-CodeSignalChallenges\TransformStringNumLetterApp\TransformStringNumLetterApp\bin\Debug\net9.0\TransformStringNumLetterApp.deps.json
+D:\Programming\C sharp Projects\C-CodeSignalChallenges\TransformStringNumLetterApp\TransformStringNumLetterApp\bin\Debug\net9.0\TransformStringNumLetterApp.runtimeconfig.json
+D:\Programming\C sharp Projects\C-CodeSignalChallenges\TransformStringNumLetterApp\TransformStringNumLetterApp\bin\Debug\net9.0\TransformStringNumLetterApp.dll
+D:\Programming\C sharp Projects\C-CodeSignalChallenges\TransformStringNumLetterApp\TransformStringNumLetterApp\bin\Debug\net9.0\TransformStringNumLetterApp.pdb
+D:\Programming\C sharp Projects\C-CodeSignalChallenges\TransformStringNumLetterApp\TransformStringNumLetterApp\obj\Debug\net9.0\TransformStringNumLetterApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C sharp Projects\C-CodeSignalChallenges\TransformStringNumLetterApp\TransformStringNumLetterApp\obj\Debug\net9.0\TransformStringNumLetterApp.AssemblyInfoInputs.cache
+D:\Programming\C sharp Projects\C-CodeSignalChallenges\TransformStringNumLetterApp\TransformStringNumLetterApp\obj\Debug\net9.0\TransformStringNumLetterApp.AssemblyInfo.cs
+D:\Programming\C sharp Projects\C-CodeSignalChallenges\TransformStringNumLetterApp\TransformStringNumLetterApp\obj\Debug\net9.0\TransformStringNumLetterApp.csproj.CoreCompileInputs.cache
+D:\Programming\C sharp Projects\C-CodeSignalChallenges\TransformStringNumLetterApp\TransformStringNumLetterApp\obj\Debug\net9.0\TransformStringNumLetterApp.sourcelink.json
+D:\Programming\C sharp Projects\C-CodeSignalChallenges\TransformStringNumLetterApp\TransformStringNumLetterApp\obj\Debug\net9.0\TransformStringNumLetterApp.dll
+D:\Programming\C sharp Projects\C-CodeSignalChallenges\TransformStringNumLetterApp\TransformStringNumLetterApp\obj\Debug\net9.0\refint\TransformStringNumLetterApp.dll
+D:\Programming\C sharp Projects\C-CodeSignalChallenges\TransformStringNumLetterApp\TransformStringNumLetterApp\obj\Debug\net9.0\TransformStringNumLetterApp.pdb
+D:\Programming\C sharp Projects\C-CodeSignalChallenges\TransformStringNumLetterApp\TransformStringNumLetterApp\obj\Debug\net9.0\TransformStringNumLetterApp.genruntimeconfig.cache
+D:\Programming\C sharp Projects\C-CodeSignalChallenges\TransformStringNumLetterApp\TransformStringNumLetterApp\obj\Debug\net9.0\ref\TransformStringNumLetterApp.dll
