@@ -5,3 +5,10 @@ C:\Users\Ud\source\repos\C#\Code Signal Challenges\AddSecondsToTimes\AddSecondsT
 C:\Users\Ud\source\repos\C#\Code Signal Challenges\AddSecondsToTimes\AddSecondsToTimes\obj\Debug\AddSecondsToTimes.csproj.CoreCompileInputs.cache
 C:\Users\Ud\source\repos\C#\Code Signal Challenges\AddSecondsToTimes\AddSecondsToTimes\obj\Debug\AddSecondsToTimes.exe
 C:\Users\Ud\source\repos\C#\Code Signal Challenges\AddSecondsToTimes\AddSecondsToTimes\obj\Debug\AddSecondsToTimes.pdb
+D:\Programming\C sharp Projects\C-CodeSignalChallenges\AddSecondsToTimes\AddSecondsToTimes\bin\Debug\AddSecondsToTimes.exe.config
+D:\Programming\C sharp Projects\C-CodeSignalChallenges\AddSecondsToTimes\AddSecondsToTimes\bin\Debug\AddSecondsToTimes.exe
+D:\Programming\C sharp Projects\C-CodeSignalChallenges\AddSecondsToTimes\AddSecondsToTimes\bin\Debug\AddSecondsToTimes.pdb
+D:\Programming\C sharp Projects\C-CodeSignalChallenges\AddSecondsToTimes\AddSecondsToTimes\obj\Debug\AddSecondsToTimes.csproj.AssemblyReference.cache
+D:\Programming\C sharp Projects\C-CodeSignalChallenges\AddSecondsToTimes\AddSecondsToTimes\obj\Debug\AddSecondsToTimes.csproj.CoreCompileInputs.cache
+D:\Programming\C sharp Projects\C-CodeSignalChallenges\AddSecondsToTimes\AddSecondsToTimes\obj\Debug\AddSecondsToTimes.exe
+D:\Programming\C sharp Projects\C-CodeSignalChallenges\AddSecondsToTimes\AddSecondsToTimes\obj\Debug\AddSecondsToTimes.pdb
